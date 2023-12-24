@@ -1,6 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://www.linkedin.com/in/abdallah-oubella-2b5662239/)
 <h1 align="center">Hi 👋, I'm Oubella Abdallah</h1>
 <h3 align="center">A passionate junior Data Scientist | Big Data and AI Engineering student</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=genjutsu22&label=Profile%20views&color=0e75b6&style=flat" alt="oubella_abdallah" /> </p>
 <img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" >
 - 📫 How to reach me **aoubella88@gmail.com**
 
