@@ -1,11 +1,3 @@
-# Hey, I'm Abdallah_Oubella👋🔔
-## Junior Data Scientist | Big Data and AI Engineering student
-📫 You can reach me at aoubella88@gmail.com
-
-Let's connect on [LinkedIn](https://www.linkedin.com/in/abdallah-oubella-2b5662239/) and collaborate on exciting IT ventures!
-
-Looking forward to learning, sharing, and growing together in the world of IT.
-
 <h1 align="center">Hi 👋, I'm Oubella Abdallah</h1>
 <h3 align="center">A passionate junior Data Scientist | Big Data and AI Engineering student</h3>
 
@@ -15,9 +7,9 @@ Looking forward to learning, sharing, and growing together in the world of IT.
 <p align="left">
 <a href="https://codepen.io/genjutsu22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="genjutsu22" height="30" width="40" /></a>
 <a href="https://twitter.com/aoubella88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aoubella88" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oubella abdallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oubella abdallah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdallah-oubella-2b5662239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oubella abdallah" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdallah oubella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdallah oubella" height="30" width="40" /></a>
-<a href="https://fb.com/oubella abdallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oubella abdallah" height="30" width="40" /></a>
+<a href="https://fb.com/abdo.tizi.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oubella abdallah" height="30" width="40" /></a>
 <a href="https://instagram.com/genjutsu_art22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="genjutsu_art22" height="30" width="40" /></a>
 </p>
 
