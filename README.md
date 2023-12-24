@@ -1,9 +1,9 @@
-<video playsinline="" class="mui-1se970o-video" controls="" data-automation="VideoPlayer" height="100%" loop="" muted="" autoplay="" width="100%" poster="https://www.shutterstock.com/shutterstock/videos/1057790755/thumb/1.jpg?ip=x480" preload="auto" aria-label="video-player" __idm_id__="1368065"><source src="https://www.shutterstock.com/shutterstock/videos/1057790755/preview/stock-footage-source-codes-in-cyberspace-on-black-background-animation-inside-software-or-matrix-with-d-walls.webm" type="video/webm"><source src="https://www.shutterstock.com/shutterstock/videos/1057790755/preview/stock-footage-source-codes-in-cyberspace-on-black-background-animation-inside-software-or-matrix-with-d-walls.mp4" type="video/mp4"></video>
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Oubella Abdallah</h1>
 <h3 align="center">A passionate junior Data Scientist | Big Data and AI Engineering student</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 - 📫 How to reach me **aoubella88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
