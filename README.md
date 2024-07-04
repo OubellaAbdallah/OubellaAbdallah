@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Oubella Abdallah</h1>
 <h3 align="center">A passionate junior Data Scientist | Big Data and AI Engineering student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genjutsu22&label=Profile%20views&color=0e75b6&style=flat" alt="oubella_abdallah" /> </p>
-<img align="right" alt="coding" height=80" src="https://cdn-images-1.medium.com/max/800/1*4Tr0FOsdUgkF32T3mdu6pg.gif" >
+<img align="right" alt="coding" height=80" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" >
+
 - 📫 How to reach me **aoubella88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,10 +23,6 @@
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 <h3 align="left">Languages and Tools:</h3>
