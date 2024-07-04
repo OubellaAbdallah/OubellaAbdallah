@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Oubella Abdallah</h1>
 <h3 align="center">A passionate junior Data Scientist | Big Data and AI Engineering student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genjutsu22&label=Profile%20views&color=0e75b6&style=flat" alt="oubella_abdallah" /> </p>
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400" >
+<img align="right" alt="coding" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82f73bdc-f54b-4803-ace4-1c019cb875ab" width="400" >
 
 - 📫 How to reach me **aoubella88@gmail.com**
 
