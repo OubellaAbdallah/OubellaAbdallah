@@ -11,7 +11,7 @@
 <a href="https://twitter.com/aoubella88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aoubella88" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdallah-oubella-2b5662239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oubella abdallah" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdallah oubella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdallah oubella" height="30" width="40" /></a>
-<a href="https://fb.com/abdo.tizi.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oubella abdallah" height="30" width="40" /></a>
+<a href="https://fb.com/abdo.tizi.73](https://www.facebook.com/abdallah.oubella.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oubella abdallah" height="30" width="40" /></a>
 <a href="https://instagram.com/genjutsu_art22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="genjutsu_art22" height="30" width="40" /></a>
 </p>
 
