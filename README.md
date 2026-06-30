@@ -1,31 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,5&height=220&section=header&text=Abdallah%20Oubella&fontSize=50&fontAlignY=32&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Digital%20Designer&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:3C096C,100:000000&height=160&section=header&text=root@oubella:~$&fontSize=42&fontColor=C77DFF&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Digital%20Designer&descAlignY=65&descAlign=50&descColor=9D4EDD" width="100%"/>
 </div>
 
 <div align="center">
 
-<!-- Typing SVG -->
+```bash
+oubella@portfolio:~$ whoami
+```
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF2E92&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Abdallah+Oubella+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Expert+in+LLMs+%26+Hybrid+RAG+Systems;Full-Stack+Developer+%26+UI%2FUX+Designer;Transforming+Data+into+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C77DFF&background=00000000&center=true&vCenter=true&width=750&lines=Abdallah+Oubella+%E2%80%94+AI+%26+Data+Science+Engineer;Building+Hybrid+RAG+Systems+%26+Fine-Tuned+LLMs;Full-Stack+Developer+%26+UI%2FUX+Designer;%24+echo+%22Transforming+data+into+intelligence%22" alt="Typing SVG" />
 </a>
 
-<br/><br/>
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-</p>
-
-<h2 align="center">Bridging the Gap Between Engineering & Art</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-FF2E92?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-00F5D4?style=for-the-badge&logo=googleanalytics&logoColor=black">
-  <img src="https://img.shields.io/badge/Focus-LLMs%20&%20RAG-9B5DE5?style=for-the-badge&logo=huggingface&logoColor=white">
-  <img src="https://img.shields.io/badge/Focus-Full_Stack-FFBE0B?style=for-the-badge&logo=react&logoColor=black">
-</p>
+<br/>
 
 <div align="center">
+
+```
+┌──(oubella@ENSIASD)-[~/profile]
+└─$ cat about.md
+```
+
+🎓 **Alumnus of ENSIASD** (First Graduating Class) &nbsp;·&nbsp; 🏆 **Ranked 3rd in Promotion**
 
 Specializing in building robust AI architectures, deploying machine learning models, and crafting intuitive user experiences.
 
@@ -33,11 +31,7 @@ Specializing in building robust AI architectures, deploying machine learning mod
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
-</p>
-
-## 🚀 What I Do
+## `$` ls -la what-i-do/
 
 <table>
   <tr>
@@ -73,37 +67,37 @@ Specializing in building robust AI architectures, deploying machine learning mod
 
 <br/>
 
-## 🛠️ Technical Arsenal
+## `$` cat tech_stack.json
 
 <div align="center">
 
-### AI / Machine Learning
+**// AI / Machine Learning**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Scikit--learn-FF2E92?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-9B5DE5?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-00F5D4?style=for-the-badge&logo=opencv&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFBE0B?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+  <img src="https://img.shields.io/badge/Scikit--learn-7B2CBF?style=for-the-badge&logo=scikit-learn&logoColor=C77DFF&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Pandas-7B2CBF?style=for-the-badge&logo=pandas&logoColor=C77DFF&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/YOLO-7B2CBF?style=for-the-badge&logo=opencv&logoColor=C77DFF&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/HuggingFace-7B2CBF?style=for-the-badge&logo=huggingface&logoColor=C77DFF&labelColor=000000"/>
 </p>
 
-### Frontend & Backend Development
+**// Frontend & Backend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,flutter,dart,tailwind,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,php,js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,flutter,dart,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,php,js&theme=dark" />
 </p>
 
-### Tools, Databases & Design
+**// Tools, Databases & Design**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,firebase" />
-  <img src="https://img.shields.io/badge/Oracle-FF2E92?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-00F5D4?style=for-the-badge&logo=adobephotoshop&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,firebase&theme=dark" />
+  <img src="https://img.shields.io/badge/Oracle-7B2CBF?style=for-the-badge&logo=oracle&logoColor=C77DFF&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Photoshop-7B2CBF?style=for-the-badge&logo=adobephotoshop&logoColor=C77DFF&labelColor=000000"/>
 </p>
 
 </div>
 
 <br/>
 
-## 🔬 Featured Projects
+## `$` git log --projects --featured
 
 <table>
   <tr>
@@ -130,58 +124,58 @@ Specializing in building robust AI architectures, deploying machine learning mod
 
 <br/>
 
-## 📈 GitHub Analytics
+## `$` ./run_analytics.sh
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OubellaAbdallah&theme=synthwave" alt="Profile Details" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OubellaAbdallah&theme=blueberry_dark" alt="Profile Details" />
 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OubellaAbdallah&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OubellaAbdallah&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=C77DFF&text_color=9D4EDD&icon_color=7B2CBF&border_color=3C096C&hide_border=false" alt="Top Languages" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=OubellaAbdallah&show_icons=true&locale=en&theme=synthwave" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=OubellaAbdallah&show_icons=true&locale=en&bg_color=000000&title_color=C77DFF&text_color=9D4EDD&icon_color=7B2CBF&border_color=3C096C&hide_border=false" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
-### Contribution Streak
+**// contribution_log --since=1y**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OubellaAbdallah&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF2E92&line=9B5DE5&point=00F5D4" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OubellaAbdallah&bg_color=000000&color=C77DFF&line=7B2CBF&point=9D4EDD&area_color=3C096C&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 <br/>
 
-### Achievements
+**// achievements --unlocked**
 
-<img src="https://github-profile-trophy.vercel.app/?username=OubellaAbdallah&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=OubellaAbdallah&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
 
 </div>
 
 <br/>
 
-## 🌐 Let's Connect
+## `$` cat contact.sh
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-oubella-2b5662239/)
-[![Twitter](https://img.shields.io/badge/Twitter-FF2E92?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aoubella88)
-[![Kaggle](https://img.shields.io/badge/Kaggle-00F5D4?style=for-the-badge&logo=kaggle&logoColor=black)](https://kaggle.com/abdallah%20oubella)
-[![Codepen](https://img.shields.io/badge/Codepen-9B5DE5?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/genjutsu22)
-[![Instagram](https://img.shields.io/badge/Instagram-FFBE0B?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/genjutsu_art22)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdallah.oubella.22)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aoubella88@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=C77DFF&labelColor=000000)](https://www.linkedin.com/in/abdallah-oubella-2b5662239/)
+[![Twitter](https://img.shields.io/badge/Twitter-7B2CBF?style=for-the-badge&logo=twitter&logoColor=C77DFF&labelColor=000000)](https://twitter.com/aoubella88)
+[![Kaggle](https://img.shields.io/badge/Kaggle-7B2CBF?style=for-the-badge&logo=kaggle&logoColor=C77DFF&labelColor=000000)](https://kaggle.com/abdallah%20oubella)
+[![Codepen](https://img.shields.io/badge/Codepen-7B2CBF?style=for-the-badge&logo=codepen&logoColor=C77DFF&labelColor=000000)](https://codepen.io/genjutsu22)
+[![Instagram](https://img.shields.io/badge/Instagram-7B2CBF?style=for-the-badge&logo=instagram&logoColor=C77DFF&labelColor=000000)](https://instagram.com/genjutsu_art22)
+[![Facebook](https://img.shields.io/badge/Facebook-7B2CBF?style=for-the-badge&logo=facebook&logoColor=C77DFF&labelColor=000000)](https://www.facebook.com/abdallah.oubella.22)
+[![Email](https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=C77DFF&labelColor=000000)](mailto:aoubella88@gmail.com)
 
 <br/>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=OubellaAbdallah&style=for-the-badge&color=FF2E92&label=PROFILE+VIEWS" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=OubellaAbdallah&style=for-the-badge&color=7B2CBF&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/github/followers/OubellaAbdallah?style=for-the-badge&color=00F5D4&label=FOLLOWERS&logo=github&logoColor=black" alt="Followers" />
+      <img src="https://img.shields.io/github/followers/OubellaAbdallah?style=for-the-badge&color=7B2CBF&label=FOLLOWERS&logo=github&logoColor=C77DFF&labelColor=000000" alt="Followers" />
     </td>
   </tr>
 </table>
@@ -190,7 +184,7 @@ Specializing in building robust AI architectures, deploying machine learning mod
 
 <br/>
 
-## 🐍 Watch Snake Eating My Contributions!
+## `$` ./snake.sh --watch
 
 <div align="center">
   <picture>
@@ -206,9 +200,11 @@ Specializing in building robust AI architectures, deploying machine learning mod
 
 <div align="center">
 
-### *"Design is not just what it looks like and feels like. Design is how it works."*
+```bash
+oubella@portfolio:~$ echo "Design is not just what it looks like and feels like. Design is how it works."
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,5&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:3C096C,100:000000&height=90&section=footer&text=process%20exited%20(0)&fontSize=16&fontColor=9D4EDD" width="100%"/>
 
 **⭐️ Abdallah Oubella | Data Scientist, AI Engineer & Digital Artist**
 
