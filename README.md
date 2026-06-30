@@ -1,34 +1,215 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://www.linkedin.com/in/abdallah-oubella-2b5662239/)
-<h1 align="center">Hi 👋, I'm Oubella Abdallah</h1>
-<h3 align="center">A passionate junior Data Scientist | Big Data and AI Engineering student</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OubellaAbdallah&label=Profile%20views&color=0e75b6&style=flat" alt="oubella_abdallah" /> </p>
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400" >
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,9,20&height=220&section=header&text=Abdallah%20Oubella&fontSize=50&fontAlignY=32&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Digital%20Designer&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
+</div>
 
-- 📫 How to reach me **aoubella88@gmail.com**
+<div align="center">
+  
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0ea5e9&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Abdallah+Oubella+👋;AI+%26+Data+Science+Engineer;Expert+in+LLMs+%26+Hybrid+RAG+Systems;Full-Stack+Developer+%26+UI%2FUX+Designer;Transforming+Data+into+Intelligent+Solutions" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/genjutsu22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="OubellaAbdallah" height="30" width="40" /></a>
-<a href="https://twitter.com/aoubella88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aoubella88" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdallah-oubella-2b5662239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oubella abdallah" height="30" width="40" /></a>
-<a href="https://kaggle.com/abdallah oubella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdallah oubella" height="30" width="40" /></a>
-<a href="https://fb.com/abdo.tizi.73](https://www.facebook.com/abdallah.oubella.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oubella abdallah" height="30" width="40" /></a>
-<a href="https://instagram.com/genjutsu_art22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="genjutsu_art22" height="30" width="40" /></a>
+<br/><br/>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 </p>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OubellaAbdallah&show_icons=true&locale=en&layout=compact" alt="OubellaAbdallah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OubellaAbdallah&show_icons=true&locale=en" alt="OubellaAbdallah" /></p>
+<h2 align="center">Bridging the Gap Between Engineering & Art</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OubellaAbdallah)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0ea5e9?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-10b981?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-LLMs%20&%20RAG-8b5cf6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Full_Stack-f43f5e?style=for-the-badge">
+</p>
+
+<div align="center">
+  
+🎓 **Alumnus of ENSIASD** (First Graduating Class) | 🏆 **Ranked 3rd in Promotion**
+Specializing in building robust AI architectures, deploying machine learning models, and crafting intuitive user experiences.
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+</p>
+
+## 🚀 What I Do
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      
+#### 🧠 AI & LLM Engineering
+- Fine-tuning Large Language Models (Mistral-7B, BERT)
+- Advanced Hybrid RAG Pipelines (Dense + TF-IDF Retrieval)
+- Computer Vision (YOLO) & Object Detection
+- Natural Language Processing (NLP)
+      
+    </td>
+    <td valign="top" width="33%">
+      
+#### 📊 Data Science
+- Statistical analysis & predictive modeling
+- Data mining & feature engineering
+- Complex dataset preparation & pipeline architecture
+- Model optimization & DPO/SFT training
+      
+    </td>
+    <td valign="top" width="33%">
+      
+#### 💻 Full-Stack & Design
+- Cross-platform dev (Flutter, Dart)
+- Web frameworks (React, Next.js, Laravel)
+- Digital Design & UI/UX (Adobe Photoshop)
+- Database architecture & RESTful APIs
+      
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### AI / Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCA326?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</p>
+
+### Frontend & Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,flutter,dart,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,php,js" />
+</p>
+
+### Tools, Databases & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,firebase" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black"/>
+</p>
+
+</div>
+
+<br/>
+
+## 🔬 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ Trilingual Legal RAG Chatbot (INPPLC)</h3>
+      <p>Developed during my PFE at the National Authority for Probity, Prevention and the Fight against Corruption. Built an advanced Hybrid RAG system prioritizing Dense + TF-IDF retrieval for extreme precision in legal contexts, utilizing DPO/SFT on advanced LLMs.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌊 Deep Blue Vision</h3>
+      <p>An AI and IoT-powered underwater object detection system. Integrated YOLO algorithms with Raspberry Pi hardware to create a real-time tracking and detection environment for aquatic environments.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐦 TweetSent</h3>
+      <p>A full-fledged web application dedicated to complex sentiment analysis, powered by fine-tuned BERT models to accurately gauge emotion and intent in short-form text data.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Digital Design Portfolio</h3>
+      <p>Leveraging my skills as an experienced digital designer proficient in Adobe Photoshop to create compelling UI/UX interfaces, complex image manipulations, and cohesive brand identities alongside my technical work.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OubellaAbdallah&theme=tokyonight" alt="Profile Details" />
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OubellaAbdallah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=OubellaAbdallah&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+### Contribution Streak
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OubellaAbdallah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0ea5e9&line=8b5cf6&point=10b981" alt="Contribution Graph" width="100%"/>
+
+<br/>
+
+### Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=OubellaAbdallah&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+## 🌐 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-oubella-2b5662239/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aoubella88)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/abdallah%20oubella)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/genjutsu22)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/genjutsu_art22)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdallah.oubella.22)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aoubella88@gmail.com)
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=OubellaAbdallah&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/OubellaAbdallah?style=for-the-badge&color=0ea5e9&label=FOLLOWERS&logo=github" alt="Followers" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+## 🐍 Watch Snake Eating My Contributions!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OubellaAbdallah/OubellaAbdallah/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OubellaAbdallah/OubellaAbdallah/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OubellaAbdallah/OubellaAbdallah/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  
+### *"Design is not just what it looks like and feels like. Design is how it works."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,9,20&height=100&section=footer" width="100%"/>
+
+**⭐️ Abdallah Oubella | Data Scientist, AI Engineer & Digital Artist**
+
+</div>
