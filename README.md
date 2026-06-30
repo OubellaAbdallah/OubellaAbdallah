@@ -23,6 +23,8 @@ oubella@portfolio:~$ whoami
 └─$ cat about.md
 ```
 
+🎓 **Alumnus of ENSIASD** (First Graduating Class) &nbsp;·&nbsp; 🏆 **Ranked 3rd in Promotion**
+
 Specializing in building robust AI architectures, deploying machine learning models, and crafting intuitive user experiences.
 
 </div>
@@ -126,7 +128,7 @@ Specializing in building robust AI architectures, deploying machine learning mod
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OubellaAbdallah&theme=blueberry_dark" alt="Profile Details" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OubellaAbdallah&theme=dracula" alt="Profile Details" />
 
 <table>
   <tr>
