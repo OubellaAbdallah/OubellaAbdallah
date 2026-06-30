@@ -23,8 +23,6 @@ oubella@portfolio:~$ whoami
 └─$ cat about.md
 ```
 
-🎓 **Alumnus of ENSIASD** (First Graduating Class) &nbsp;·&nbsp; 🏆 **Ranked 3rd in Promotion**
-
 Specializing in building robust AI architectures, deploying machine learning models, and crafting intuitive user experiences.
 
 </div>
