@@ -75,8 +75,8 @@ Specializing in building robust AI architectures, deploying machine learning mod
 **// AI / Machine Learning**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,opencv&theme=dark" />
-  <img src="https://img.shields.io/badge/-%23242938?style=flat&logo=pandas&logoColor=3776AB" height="50" alt="Pandas" />
-  <img src="https://img.shields.io/badge/-%23242938?style=flat&logo=huggingface&logoColor=FFD21E" height="50" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/-%23242938?style=flat&logo=pandas&logoColor=3776AB" height="50" width="62" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-%23242938?style=flat&logo=huggingface&logoColor=FFD21E" height="50" width="62" alt="HuggingFace" />
 </p>
 
 **// Frontend & Backend**
@@ -88,8 +88,8 @@ Specializing in building robust AI architectures, deploying machine learning mod
 **// Tools, Databases & Design**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,firebase,figma,photoshop&theme=dark" />
-  <img src="https://img.shields.io/badge/-%23242938?style=flat&logo=oracle&logoColor=F80000" height="50" alt="Oracle" />
-  <img src="https://img.shields.io/badge/-%23242938?style=flat&logo=n8n&logoColor=FF6C37" height="50" alt="n8n" />
+  <img src="https://img.shields.io/badge/-%23242938?style=flat&logo=oracle&logoColor=F80000" height="50" width="28" alt="Oracle" />
+  <img src="https://img.shields.io/badge/-%23242938?style=flat&logo=n8n&logoColor=FF6C37" height="50" width="62" alt="n8n" />
 </p>
 
 </div>
