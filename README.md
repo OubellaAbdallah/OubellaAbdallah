@@ -141,14 +141,7 @@ Specializing in building robust AI architectures, deploying machine learning mod
 
 **// achievements --unlocked**
 
-<img src="https://github-profile-trophy.vercel.app/?username=OubellaAbdallah&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
-
-</div>
-<br/>
-
-**// achievements --unlocked**
-
-<img src="https://github-profile-trophy.vercel.app/?username=OubellaAbdallah&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
+<img src="https://raw.githubusercontent.com/OubellaAbdallah/OubellaAbdallah/output/github-trophies.svg" alt="GitHub Trophies"/>
 
 </div>
 
