@@ -158,10 +158,8 @@ Specializing in building robust AI architectures, deploying machine learning mod
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=C77DFF&labelColor=000000)](https://www.linkedin.com/in/abdallah-oubella-2b5662239/)
-[![Twitter](https://img.shields.io/badge/Twitter-7B2CBF?style=for-the-badge&logo=twitter&logoColor=C77DFF&labelColor=000000)](https://twitter.com/aoubella88)
 [![Kaggle](https://img.shields.io/badge/Kaggle-7B2CBF?style=for-the-badge&logo=kaggle&logoColor=C77DFF&labelColor=000000)](https://kaggle.com/abdallah%20oubella)
-[![Codepen](https://img.shields.io/badge/Codepen-7B2CBF?style=for-the-badge&logo=codepen&logoColor=C77DFF&labelColor=000000)](https://codepen.io/genjutsu22)
-[![Instagram](https://img.shields.io/badge/Instagram-7B2CBF?style=for-the-badge&logo=instagram&logoColor=C77DFF&labelColor=000000)](https://instagram.com/genjutsu_art22)
+[![Instagram](https://img.shields.io/badge/Instagram-7B2CBF?style=for-the-badge&logo=instagram&logoColor=C77DFF&labelColor=000000)](https://www.instagram.com/therealabdvllah/?theme=dark)
 [![Facebook](https://img.shields.io/badge/Facebook-7B2CBF?style=for-the-badge&logo=facebook&logoColor=C77DFF&labelColor=000000)](https://www.facebook.com/abdallah.oubella.22)
 [![Email](https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=C77DFF&labelColor=000000)](mailto:aoubella88@gmail.com)
 
