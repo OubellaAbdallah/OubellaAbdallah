@@ -129,26 +129,9 @@ Specializing in building robust AI architectures, deploying machine learning mod
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OubellaAbdallah&theme=dracula" alt="Profile Details" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=OubellaAbdallah&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=C77DFF&icon_color=9D4EDD&text_color=ffffff" alt="GitHub Stats" />
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OubellaAbdallah&theme=dracula" alt="Top Languages by Repo" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OubellaAbdallah&theme=dracula" alt="Top Languages by Commit" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OubellaAbdallah&theme=dracula" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OubellaAbdallah&theme=dracula&utcOffset=1" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OubellaAbdallah&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=ffffff" alt="Top Languages" />
 
 **// contribution_log --since=1y**
 
