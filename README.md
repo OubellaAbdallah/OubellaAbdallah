@@ -129,14 +129,21 @@ Specializing in building robust AI architectures, deploying machine learning mod
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=OubellaAbdallah&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=C77DFF&icon_color=9D4EDD&text_color=ffffff" alt="GitHub Stats" />
+<img width="100%" src="https://raw.githubusercontent.com/OubellaAbdallah/OubellaAbdallah/output/github-stats.svg" alt="GitHub Stats" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OubellaAbdallah&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=ffffff" alt="Top Languages" />
+<img width="100%" src="https://raw.githubusercontent.com/OubellaAbdallah/OubellaAbdallah/output/github-top-langs.svg" alt="Top Languages" />
 
 **// contribution_log --since=1y**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OubellaAbdallah&bg_color=000000&color=C77DFF&line=7B2CBF&point=9D4EDD&area_color=3C096C&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 
+<br/>
+
+**// achievements --unlocked**
+
+<img src="https://github-profile-trophy.vercel.app/?username=OubellaAbdallah&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
+
+</div>
 <br/>
 
 **// achievements --unlocked**

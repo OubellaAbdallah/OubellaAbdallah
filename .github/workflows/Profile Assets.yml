@@ -1,0 +1,81 @@
+name: Profile Assets (Snake + Trophies)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # --- Snake contribution animation ---
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # --- Self-hosted GitHub trophies (no dependency on the shared,
+      #     frequently-paused github-profile-trophy.vercel.app instance) ---
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Clone trophy generator
+        run: |
+          git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git /tmp/trophy
+
+      - name: Render trophy SVG
+        run: |
+          cd /tmp/trophy
+          deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts \
+            ${{ github.repository_owner }} \
+            "$GITHUB_WORKSPACE/dist" \
+            dracula
+
+      - name: Rename trophy output
+        run: |
+          mv "$GITHUB_WORKSPACE/dist/${{ github.repository_owner }}.svg" \
+             "$GITHUB_WORKSPACE/dist/github-trophies.svg"
+
+      # --- Self-hosted GitHub Stats + Top Languages (no dependency on the
+      #     shared, frequently-paused github-readme-stats.vercel.app instance) ---
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=C77DFF&icon_color=9D4EDD&text_color=ffffff
+          path: dist/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=ffffff
+          path: dist/github-top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # --- Deploy everything to the 'output' branch ---
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation + trophies [skip ci]"
