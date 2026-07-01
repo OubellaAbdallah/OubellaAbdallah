@@ -74,11 +74,9 @@ Specializing in building robust AI architectures, deploying machine learning mod
 
 **// AI / Machine Learning**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-  <img src="https://img.shields.io/badge/Scikit--learn-7B2CBF?style=for-the-badge&logo=scikit-learn&logoColor=C77DFF&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Pandas-7B2CBF?style=for-the-badge&logo=pandas&logoColor=C77DFF&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/YOLO-7B2CBF?style=for-the-badge&logo=opencv&logoColor=C77DFF&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/HuggingFace-7B2CBF?style=for-the-badge&logo=huggingface&logoColor=C77DFF&labelColor=000000"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,opencv&theme=dark" />
+  <img src="https://img.shields.io/badge/-%23242938?style=flat&logo=pandas&logoColor=3776AB" height="50" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-%23242938?style=flat&logo=huggingface&logoColor=FFD21E" height="50" alt="HuggingFace" />
 </p>
 
 **// Frontend & Backend**
@@ -89,11 +87,9 @@ Specializing in building robust AI architectures, deploying machine learning mod
 
 **// Tools, Databases & Design**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,firebase,figma&theme=dark" />
-  <img src="https://img.shields.io/badge/Oracle-7B2CBF?style=for-the-badge&logo=oracle&logoColor=C77DFF&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Photoshop-7B2CBF?style=for-the-badge&logo=adobephotoshop&logoColor=C77DFF&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Figma-7B2CBF?style=for-the-badge&logo=figma&logoColor=C77DFF&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/n8n-7B2CBF?style=for-the-badge&logo=n8n&logoColor=C77DFF&labelColor=000000"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,firebase,figma,photoshop&theme=dark" />
+  <img src="https://img.shields.io/badge/-%23242938?style=flat&logo=oracle&logoColor=F80000" height="50" alt="Oracle" />
+  <img src="https://img.shields.io/badge/-%23242938?style=flat&logo=n8n&logoColor=FF6C37" height="50" alt="n8n" />
 </p>
 
 </div>
