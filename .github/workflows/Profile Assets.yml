@@ -45,7 +45,7 @@ jobs:
           cd /tmp/trophy
           deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts \
             ${{ github.repository_owner }} \
-            "$GITHUB_WORKSPACE/dist" \
+            "$GITHUB_WORKSPACE/dist/${{ github.repository_owner }}.svg" \
             dracula
         env:
           GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
@@ -80,4 +80,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update snake animation + trophies [skip ci]"
+          commit_message: "Update snake animation + trophies [skip ci]"  
