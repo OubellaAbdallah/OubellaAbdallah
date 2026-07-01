@@ -42,7 +42,7 @@ Specializing in building robust AI architectures, deploying machine learning mod
 - Advanced Hybrid RAG Pipelines (Dense + TF-IDF Retrieval or BM25)
 - Computer Vision (YOLO) & Object Detection
 - Natural Language Processing (NLP)
-- Automation
+- Workflow Automation (n8n)
 
     </td>
     <td valign="top" width="33%">
@@ -59,7 +59,7 @@ Specializing in building robust AI architectures, deploying machine learning mod
 #### 💻 Full-Stack & Design
 - Cross-platform dev (Flutter, Dart)
 - Web frameworks (React, Next.js, Laravel)
-- Digital Design & UI/UX (Adobe Photoshop)
+- Digital Design & UI/UX (Adobe Photoshop, Figma)
 - Database architecture & RESTful APIs
 
     </td>
@@ -89,9 +89,11 @@ Specializing in building robust AI architectures, deploying machine learning mod
 
 **// Tools, Databases & Design**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,firebase,figma&theme=dark" />
   <img src="https://img.shields.io/badge/Oracle-7B2CBF?style=for-the-badge&logo=oracle&logoColor=C77DFF&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Photoshop-7B2CBF?style=for-the-badge&logo=adobephotoshop&logoColor=C77DFF&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Figma-7B2CBF?style=for-the-badge&logo=figma&logoColor=C77DFF&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/n8n-7B2CBF?style=for-the-badge&logo=n8n&logoColor=C77DFF&labelColor=000000"/>
 </p>
 
 </div>
