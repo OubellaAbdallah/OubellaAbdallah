@@ -23,6 +23,8 @@ oubella@portfolio:~$ whoami
 └─$ cat about.md
 ```
 
+🎓 **Alumnus of ENSIASD** (First Graduating Class) &nbsp;·&nbsp;
+
 Specializing in building robust AI architectures, deploying machine learning models, and crafting intuitive user experiences.
 
 </div>
@@ -36,10 +38,11 @@ Specializing in building robust AI architectures, deploying machine learning mod
     <td valign="top" width="33%">
 
 #### 🧠 AI & LLM Engineering
-- Fine-tuning Large Language Models (Mistral-7B, BERT)
-- Advanced Hybrid RAG Pipelines (Dense + TF-IDF Retrieval)
+- Fine-tuning Large Language Models (Mistral-7B, BERT,LLAMA)
+- Advanced Hybrid RAG Pipelines (Dense + TF-IDF Retrieval or BM25)
 - Computer Vision (YOLO) & Object Detection
 - Natural Language Processing (NLP)
+- Automation
 
     </td>
     <td valign="top" width="33%">
@@ -131,10 +134,18 @@ Specializing in building robust AI architectures, deploying machine learning mod
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OubellaAbdallah&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=C77DFF&text_color=9D4EDD&icon_color=7B2CBF&border_color=3C096C&hide_border=false" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OubellaAbdallah&theme=dracula" alt="Top Languages by Repo" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=OubellaAbdallah&show_icons=true&locale=en&bg_color=000000&title_color=C77DFF&text_color=9D4EDD&icon_color=7B2CBF&border_color=3C096C&hide_border=false" alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OubellaAbdallah&theme=dracula" alt="Top Languages by Commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OubellaAbdallah&theme=dracula" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OubellaAbdallah&theme=dracula&utcOffset=1" alt="Productive Time" />
     </td>
   </tr>
 </table>
