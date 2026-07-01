@@ -42,6 +42,7 @@ jobs:
 
       - name: Render trophy SVG
         run: |
+          sudo chown -R $USER:$USER "$GITHUB_WORKSPACE/dist"
           cd /tmp/trophy
           deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts \
             ${{ github.repository_owner }} \
