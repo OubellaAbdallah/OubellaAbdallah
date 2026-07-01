@@ -47,6 +47,8 @@ jobs:
             ${{ github.repository_owner }} \
             "$GITHUB_WORKSPACE/dist" \
             dracula
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Rename trophy output
         run: |
